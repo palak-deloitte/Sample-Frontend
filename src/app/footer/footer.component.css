@@ -1,0 +1,31 @@
+*{
+    /* min-height: 90vh; */
+    background-color: #080526;
+}
+.info {
+    /* margin-left: 20px;
+    margin-top: 30px; */
+    padding: 1rem;
+    padding-top: 5rem;
+    color: white;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    gap: 10px;
+}
+
+.icons-circle {
+    background-color: #F1F0F0;
+    padding: 15px;
+    border-radius: 50%;
+    color: #85D1A0;
+}
+
+/* Footer */
+footer {
+    background-color: #845724;
+    height: 4vh;
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+    /* margin-top: 20px; */
+}

@@ -1,0 +1,18 @@
+.banner {
+    height: 45vh;
+    width: 100%;
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 8%, rgba(237,181,114,1) 53%, rgba(2,0,36,1) 100%);
+}
+
+.banner-content {
+    position: absolute;
+    top: 22%;
+    text-align: center;
+}
+
+.banner-content img {
+    position: absolute;
+    bottom: -52%;
+    right: 1%;
+}
